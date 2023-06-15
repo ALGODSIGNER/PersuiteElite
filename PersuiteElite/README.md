@@ -8,8 +8,8 @@ my goal is to create an open source bounty hunting application that allows users
 # Getting Started
 
 ## installation:
-   ### npm install
-   ### npm install next-auth
+  **npm install**
+  **npm install next-auth**
 
 ## First, run the development server:
 
